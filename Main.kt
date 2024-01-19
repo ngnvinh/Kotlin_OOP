@@ -17,7 +17,6 @@ fun main()
     mouse.makeASound()
     mouse.StealCheese(8)
     mouse.EatCheese()
-    println("${mouse.CheeseAmount}")
 
 }
 
