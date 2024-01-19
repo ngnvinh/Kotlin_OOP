@@ -1,6 +1,6 @@
 class Mouse(_name: String = "Jerry"): Animal(_name)
 {
-    var CheeseAmount: Int = 0
+    private var CheeseAmount: Int = 0
     
     override fun makeASound()
     {
